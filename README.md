@@ -2,8 +2,6 @@
 
 An agentic pipeline that turns public FMCG news into a short newsletter of recent M&A and investment deals. It ingests news, removes duplicates, filters for FMCG deals, verifies each deal with a LangGraph agent, and generates a structured newsletter.
 
-**Live demo:** https://825vtdbmthns99kdrdjegl.streamlit.app/
-
 ## Features
 
 - News ingestion from Google News RSS, filterable by category and region.
