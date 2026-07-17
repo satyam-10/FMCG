@@ -1,10 +1,3 @@
-"""
-Streamlit front end.
-
-Loads a known-good cached run by default so a reviewer sees a clean newsletter
-immediately. Sidebar controls let the user filter by FMCG category and region
-before triggering a live run.
-"""
 
 from dotenv import load_dotenv
 load_dotenv()
